@@ -1,6 +1,6 @@
 // ##### Introduction #####
 //
-// The below assignment will require NO functions, except for the challenge banner function in number 1.
+// The below assignment will require NO functions
 //
 // Instead, our focus is going to be on console.logging the characters at certain indices of strings.
 //
@@ -9,20 +9,8 @@
 
 // ##### Challenges #####
 
+
 // 1.
-//
-// Write a function that takes in a parameter and prints the string below, with the given paramter place of the $ symbol.
-// 
-// ###### Challenge $ #####
-//
-// Call it before EVERY challenge below!
-//
-// Even though we'll USUALLY be calling this function with a number indicating the challenge we're on, THIS TIME call it with the parameter 'Banner Function Works!'. You should see the below result:
-//
-// ###### Challenge Banner Function Works! #####
-
-
-// 2.
 //
 // Console out the numbers from 1-20, but only if they're divisible by 3.
 
